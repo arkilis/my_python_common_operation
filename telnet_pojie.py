@@ -1,4 +1,3 @@
-TELNET......
 #!usr/bin/python
 #Telnet Brute Forcer
 #http://www.darkc0de.com
